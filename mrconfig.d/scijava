@@ -37,6 +37,9 @@ checkout = git clone git://github.com/scijava/scijava-maven-plugin
 [code/scijava/scijava-plugins-commands]
 checkout = git clone git://github.com/scijava/scijava-plugins-commands
 
+[code/scijava/scijava-plugins-issues-github]
+checkout = git clone git://github.com/scijava/scijava-plugins-issues-github
+
 [code/scijava/scijava-plugins-platforms]
 checkout = git clone git://github.com/scijava/scijava-plugins-platforms
 
