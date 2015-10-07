@@ -28,6 +28,9 @@ checkout = git clone git://github.com/scijava/scijava-config
 [code/scijava/scijava-expression-parser]
 checkout = git clone git://github.com/scijava/scijava-expression-parser
 
+[code/scijava/scijava-java3d]
+checkout = git clone git://github.com/scijava/scijava-java3d
+
 [code/scijava/scijava-javadoc]
 checkout = git clone git://github.com/scijava/scijava-javadoc
 
