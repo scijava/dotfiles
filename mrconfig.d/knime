@@ -28,6 +28,9 @@ checkout = git clone git://github.com/knime-ip/knip-scijava
 [code/knime/knip-sdk-setup]
 checkout = git clone git://github.com/knime-ip/knip-sdk-setup
 
+[code/knime/knip-stitching]
+checkout = git clone git://github.com/biobv2015/knip-stitching
+
 [code/knime/knip-suise]
 checkout = git clone git://github.com/knime-ip/knip-suise
 
