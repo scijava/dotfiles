@@ -4,5 +4,8 @@ checkout = git clone git://github.com/CellProfiler/CellProfiler
 [code/cellprofiler/CellProfiler-Analyst]
 checkout = git clone git://github.com/CellProfiler/CellProfiler-Analyst
 
+[code/cellprofiler/python-javabridge]
+checkout = git clone git://github.com/CellProfiler/python-javabridge
+
 [code/cellprofiler/subimager]
 checkout = git clone git://github.com/CellProfiler/subimager
