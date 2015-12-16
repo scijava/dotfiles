@@ -4,6 +4,9 @@ checkout = git clone git://github.com/scijava/dotfiles
 [code/scijava/jython-shaded]
 checkout = git clone git://github.com/scijava/jython-shaded
 
+[code/scijava/mediawiki-maven-info]
+checkout = git clone git://github.com/scijava/mediawiki-maven-info
+
 [code/scijava/minimaven]
 checkout = git clone git://github.com/scijava/minimaven
 
