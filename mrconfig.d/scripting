@@ -25,8 +25,8 @@ checkout = git clone git://github.com/scijava/scripting-jython
 [code/scijava/scripting-matlab]
 checkout = git clone git://github.com/scijava/scripting-matlab
 
-[code/scijava/scripting-r]
-checkout = git clone git://github.com/scijava/scripting-r
+[code/scijava/scripting-renjin]
+checkout = git clone git://github.com/scijava/scripting-renjin
 
 [code/scijava/scripting-scala]
 checkout = git clone git://github.com/scijava/scripting-scala
