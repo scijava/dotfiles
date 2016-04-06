@@ -12,3 +12,6 @@ checkout = git clone git://github.com/maven-nar/maven-nar.github.com
 
 [code/nar/nar-maven-plugin]
 checkout = git clone git://github.com/maven-nar/nar-maven-plugin
+
+[code/nar/nar-maven-plugin.wiki]
+checkout = git clone git://github.com/maven-nar/nar-maven-plugin.wiki
