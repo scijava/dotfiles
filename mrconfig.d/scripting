@@ -1,3 +1,6 @@
+[code/scijava/script-editor]
+checkout = git clone git://github.com/scijava/script-editor
+
 [code/scijava/scripting-beanshell]
 checkout = git clone git://github.com/scijava/scripting-beanshell
 
