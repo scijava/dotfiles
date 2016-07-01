@@ -1,6 +1,9 @@
 [code/scijava/dotfiles]
 checkout = git clone git://github.com/scijava/dotfiles
 
+[code/scijava/java3d-javadoc]
+checkout = git clone git://github.com/scijava/java3d-javadoc
+
 [code/scijava/jython-shaded]
 checkout = git clone git://github.com/scijava/jython-shaded
 
