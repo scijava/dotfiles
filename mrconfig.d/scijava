@@ -43,6 +43,9 @@ checkout = git clone git://github.com/scijava/scijava-common
 [code/scijava/scijava-config]
 checkout = git clone git://github.com/scijava/scijava-config
 
+[code/scijava/scijava-grab]
+checkout = git clone git://github.com/scijava/scijava-grab
+
 [code/scijava/scijava-java3d]
 checkout = git clone git://github.com/scijava/scijava-java3d
 
