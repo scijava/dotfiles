@@ -53,7 +53,7 @@ checkout = git clone git://github.com/scijava/scijava-java3d
 checkout = git clone git://github.com/scijava/scijava-javadoc
 
 [code/scijava/scijava-jupyter-kernel]
-checkout = git clone git://github.com/hadim/scijava-jupyter-kernel
+checkout = git clone git://github.com/scijava/scijava-jupyter-kernel
 
 [code/scijava/scijava-log-slf4j]
 checkout = git clone git://github.com/scijava/scijava-log-slf4j
