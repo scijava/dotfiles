@@ -4,23 +4,11 @@ checkout = git clone git://github.com/scijava/dotfiles
 [code/scijava/java3d-javadoc]
 checkout = git clone git://github.com/scijava/java3d-javadoc
 
-[code/scijava/jep]
-checkout = git clone git://github.com/scijava/jep
-
-[code/scijava/junit-benchmarks]
-checkout = git clone git://github.com/scijava/junit-benchmarks
-
-[code/scijava/jython-shaded]
-checkout = git clone git://github.com/scijava/jython-shaded
-
 [code/scijava/mediawiki-maven-info]
 checkout = git clone git://github.com/scijava/mediawiki-maven-info
 
 [code/scijava/minimaven]
 checkout = git clone git://github.com/scijava/minimaven
-
-[code/scijava/native-lib-loader]
-checkout = git clone git://github.com/scijava/native-lib-loader
 
 [code/scijava/parsington]
 checkout = git clone git://github.com/scijava/parsington
