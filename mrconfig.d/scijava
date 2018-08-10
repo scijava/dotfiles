@@ -73,6 +73,9 @@ checkout = git clone git://github.com/scijava/scijava-plugins-text-plain
 [code/scijava/scijava-scripts]
 checkout = git clone git://github.com/scijava/scijava-scripts
 
+[code/scijava/scijava-table]
+checkout = git clone git://github.com/scijava/scijava-table
+
 [code/scijava/scijava-ui-awt]
 checkout = git clone git://github.com/scijava/scijava-ui-awt
 
