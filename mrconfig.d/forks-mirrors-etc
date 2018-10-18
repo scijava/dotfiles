@@ -1,15 +1,6 @@
 # Stuff that SciJava didn't invent, but rather
 # wanted to mirror, fork, adapt, preserve, etc.
 
-[code/scijava/javax-scripting]
-checkout = git clone git://github.com/scijava/javax-scripting
-
-[code/scijava/jep]
-checkout = git clone git://github.com/scijava/jep
-
-[code/scijava/junit-benchmarks]
-checkout = git clone git://github.com/scijava/junit-benchmarks
-
 [code/scijava/jython-shaded]
 checkout = git clone git://github.com/scijava/jython-shaded
 
