@@ -1,3 +1,6 @@
+[code/scijava/batch-processor]
+checkout = git clone git://github.com/scijava/batch-processor
+
 [code/scijava/dotfiles]
 checkout = git clone git://github.com/scijava/dotfiles
 
