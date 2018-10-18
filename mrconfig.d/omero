@@ -1,0 +1,20 @@
+[code/omero/FLIMfit]
+checkout = git clone git://github.com/flimfit/FLIMfit
+
+[code/omero/Omega]
+checkout = git clone git://github.com/OmegaProject/Omega
+
+[code/omero/minimal-omero-client]
+checkout = git clone git://github.com/ome/minimal-omero-client
+
+[code/omero/ome-docker]
+checkout = git clone git://github.com/ome/ome-docker
+
+[code/omero/ome-documentation]
+checkout = git clone git://github.com/openmicroscopy/ome-documentation
+
+[code/omero/openmicroscopy]
+checkout = git clone git://github.com/openmicroscopy/openmicroscopy
+
+[code/omero/pom-omero-client]
+checkout = git clone git://github.com/ome/pom-omero-client
