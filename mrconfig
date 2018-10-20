@@ -14,6 +14,12 @@ checkout = git clone git://github.com/scijava/dotfiles
 [code/scijava/examples]
 checkout = git clone git://github.com/scijava/examples
 
+[code/scijava/javadoc.scijava.org]
+checkout = git clone git://github.com/scijava/javadoc.scijava.org
+
+[code/scijava/javax-scripting]
+checkout = git clone git://github.com/scijava/javax-scripting
+
 [code/scijava/mediawiki-maven-info]
 checkout = git clone git://github.com/scijava/mediawiki-maven-info
 
@@ -43,6 +49,9 @@ checkout = git clone git://github.com/scijava/scijava-config
 
 [code/scijava/scijava-grab]
 checkout = git clone git://github.com/scijava/scijava-grab
+
+[code/scijava/scijava-io-http]
+checkout = git clone git://github.com/scijava/scijava-io-http
 
 [code/scijava/scijava-java3d]
 checkout = git clone git://github.com/scijava/scijava-java3d
@@ -79,6 +88,9 @@ checkout = git clone git://github.com/scijava/scijava-plugins-text-plain
 
 [code/scijava/scijava-scripts]
 checkout = git clone git://github.com/scijava/scijava-scripts
+
+[code/scijava/scijava-search]
+checkout = git clone git://github.com/scijava/scijava-search
 
 [code/scijava/scijava-table]
 checkout = git clone git://github.com/scijava/scijava-table
