@@ -1,8 +1,0 @@
-# Stuff that SciJava didn't invent, but rather
-# wanted to mirror, fork, adapt, preserve, etc.
-
-[code/scijava/jython-shaded]
-checkout = git clone git://github.com/scijava/jython-shaded
-
-[code/scijava/native-lib-loader]
-checkout = git clone git://github.com/scijava/native-lib-loader
