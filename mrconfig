@@ -20,11 +20,17 @@ checkout = git clone git://github.com/scijava/javadoc.scijava.org
 [code/scijava/javax-scripting]
 checkout = git clone git://github.com/scijava/javax-scripting
 
+[code/scijava/jython-shaded]
+checkout = git clone git://github.com/scijava/jython-shaded
+
 [code/scijava/mediawiki-maven-info]
 checkout = git clone git://github.com/scijava/mediawiki-maven-info
 
 [code/scijava/minimaven]
 checkout = git clone git://github.com/scijava/minimaven
+
+[code/scijava/native-lib-loader]
+checkout = git clone git://github.com/scijava/native-lib-loader
 
 [code/scijava/parsington]
 checkout = git clone git://github.com/scijava/parsington
