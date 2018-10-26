@@ -80,6 +80,9 @@ checkout = git clone git://github.com/scijava/scijava-ops
 [code/scijava/scijava-plugins-commands]
 checkout = git clone git://github.com/scijava/scijava-plugins-commands
 
+[code/scijava/scijava-plugins-io-table]
+checkout = git clone git://github.com/scijava/scijava-plugins-io-table
+
 [code/scijava/scijava-plugins-issues-github]
 checkout = git clone git://github.com/scijava/scijava-plugins-issues-github
 
@@ -154,6 +157,9 @@ checkout = git clone git://github.com/scijava/scripting-renjin
 
 [code/scijava/scripting-scala]
 checkout = git clone git://github.com/scijava/scripting-scala
+
+[code/scijava/scyjava]
+checkout = git clone git://github.com/scijava/scyjava
 
 [code/scijava/status.scijava.org]
 checkout = git clone git://github.com/scijava/status.scijava.org
