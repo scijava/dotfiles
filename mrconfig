@@ -20,6 +20,9 @@ checkout = git clone git://github.com/scijava/javadoc.scijava.org
 [code/scijava/javax-scripting]
 checkout = git clone git://github.com/scijava/javax-scripting
 
+[code/scijava/jgo]
+checkout = git clone git://github.com/scijava/jgo
+
 [code/scijava/jython-shaded]
 checkout = git clone git://github.com/scijava/jython-shaded
 
@@ -64,9 +67,6 @@ checkout = git clone git://github.com/scijava/scijava-java3d
 
 [code/scijava/scijava-javadoc]
 checkout = git clone git://github.com/scijava/scijava-javadoc
-
-[code/scijava/jrun]
-checkout = git clone git://github.com/scijava/jrun
 
 [code/scijava/scijava-jupyter-kernel]
 checkout = git clone git://github.com/scijava/scijava-jupyter-kernel
