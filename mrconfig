@@ -137,9 +137,6 @@ checkout = git clone git://github.com/scijava/scripting-beanshell
 [code/scijava/scripting-clojure]
 checkout = git clone git://github.com/scijava/scripting-clojure
 
-[code/scijava/scripting-cpython]
-checkout = git clone git://github.com/scijava/scripting-cpython
-
 [code/scijava/scripting-groovy]
 checkout = git clone git://github.com/scijava/scripting-groovy
 
