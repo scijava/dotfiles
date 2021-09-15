@@ -50,6 +50,9 @@ checkout = git clone git://github.com/scijava/pom-scijava-base
 [code/scijava/pom-scijava-wiki]
 checkout = git clone git://github.com/scijava/pom-scijava.wiki pom-scijava-wiki
 
+[code/scijava/scijava]
+checkout = git clone git://github.com/scijava/scijava
+
 [code/scijava/scijava-cache]
 checkout = git clone git://github.com/scijava/scijava-cache
 
@@ -82,9 +85,6 @@ checkout = git clone git://github.com/scijava/scijava-log-slf4j
 
 [code/scijava/scijava-maven-plugin]
 checkout = git clone git://github.com/scijava/scijava-maven-plugin
-
-[code/scijava/scijava-ops]
-checkout = git clone git://github.com/scijava/scijava-ops
 
 [code/scijava/scijava-plot]
 checkout = git clone git://github.com/maarzt/scijava-plot
