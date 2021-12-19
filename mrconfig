@@ -6,184 +6,184 @@
 # include = cat $CODE_BASE/scijava/dotfiles/mrconfig 2> /dev/null || true
 
 [code/scijava/batch-processor]
-checkout = git clone git://github.com/scijava/batch-processor
+checkout = git clone git@github.com:scijava/batch-processor
 
 [code/scijava/dotfiles]
-checkout = git clone git://github.com/scijava/dotfiles
+checkout = git clone git@github.com:scijava/dotfiles
 
 [code/scijava/examples]
-checkout = git clone git://github.com/scijava/examples
+checkout = git clone git@github.com:scijava/examples
 
 [code/scijava/gitter-content-archive]
-checkout = git clone git://github.com/scijava/gitter-content-archive
+checkout = git clone git@github.com:scijava/gitter-content-archive
 
 [code/scijava/gitter-content-indexer]
-checkout = git clone git://github.com/scijava/gitter-content-indexer
+checkout = git clone git@github.com:scijava/gitter-content-indexer
 
 [code/scijava/gitter-search-frontend]
-checkout = git clone git://github.com/scijava/gitter-search-frontend
+checkout = git clone git@github.com:scijava/gitter-search-frontend
 
 [code/scijava/incubator]
-checkout = git clone git://github.com/scijava/incubator
+checkout = git clone git@github.com:scijava/incubator
 
 [code/scijava/jgo]
-checkout = git clone git://github.com/scijava/jgo
+checkout = git clone git@github.com:scijava/jgo
 
 [code/scijava/minimaven]
-checkout = git clone git://github.com/scijava/minimaven
+checkout = git clone git@github.com:scijava/minimaven
 
 [code/scijava/native-lib-loader]
-checkout = git clone git://github.com/scijava/native-lib-loader
+checkout = git clone git@github.com:scijava/native-lib-loader
 
 [code/scijava/parsington]
-checkout = git clone git://github.com/scijava/parsington
+checkout = git clone git@github.com:scijava/parsington
 
 [code/scijava/pom-scijava]
-checkout = git clone git://github.com/scijava/pom-scijava
+checkout = git clone git@github.com:scijava/pom-scijava
 
 [code/scijava/pom-scijava-base]
-checkout = git clone git://github.com/scijava/pom-scijava-base
+checkout = git clone git@github.com:scijava/pom-scijava-base
 
 [code/scijava/pom-scijava-wiki]
-checkout = git clone git://github.com/scijava/pom-scijava.wiki pom-scijava-wiki
+checkout = git clone git@github.com:scijava/pom-scijava.wiki pom-scijava-wiki
 
 [code/scijava/scijava]
-checkout = git clone git://github.com/scijava/scijava
+checkout = git clone git@github.com:scijava/scijava
 
 [code/scijava/scijava-cache]
-checkout = git clone git://github.com/scijava/scijava-cache
+checkout = git clone git@github.com:scijava/scijava-cache
 
 [code/scijava/scijava-coding-style]
-checkout = git clone git://github.com/scijava/scijava-coding-style
+checkout = git clone git@github.com:scijava/scijava-coding-style
 
 [code/scijava/scijava-common]
-checkout = git clone git://github.com/scijava/scijava-common
+checkout = git clone git@github.com:scijava/scijava-common
 
 [code/scijava/scijava-config]
-checkout = git clone git://github.com/scijava/scijava-config
+checkout = git clone git@github.com:scijava/scijava-config
 
 [code/scijava/scijava-grab]
-checkout = git clone git://github.com/scijava/scijava-grab
+checkout = git clone git@github.com:scijava/scijava-grab
 
 [code/scijava/scijava-io-http]
-checkout = git clone git://github.com/scijava/scijava-io-http
+checkout = git clone git@github.com:scijava/scijava-io-http
 
 [code/scijava/scijava-java3d]
-checkout = git clone git://github.com/scijava/scijava-java3d
+checkout = git clone git@github.com:scijava/scijava-java3d
 
 [code/scijava/scijava-jupyter-kernel]
-checkout = git clone git://github.com/scijava/scijava-jupyter-kernel
+checkout = git clone git@github.com:scijava/scijava-jupyter-kernel
 
 [code/scijava/scijava-log-slf4j]
-checkout = git clone git://github.com/scijava/scijava-log-slf4j
+checkout = git clone git@github.com:scijava/scijava-log-slf4j
 
 [code/scijava/scijava-maven-plugin]
-checkout = git clone git://github.com/scijava/scijava-maven-plugin
+checkout = git clone git@github.com:scijava/scijava-maven-plugin
 
 [code/scijava/scijava-optional]
-checkout = git clone git://github.com/scijava/scijava-optional
+checkout = git clone git@github.com:scijava/scijava-optional
 
 [code/scijava/scijava-plot]
-checkout = git clone git://github.com/maarzt/scijava-plot
+checkout = git clone git@github.com:maarzt/scijava-plot
 
 [code/scijava/scijava-plugins-commands]
-checkout = git clone git://github.com/scijava/scijava-plugins-commands
+checkout = git clone git@github.com:scijava/scijava-plugins-commands
 
 [code/scijava/scijava-plugins-io-table]
-checkout = git clone git://github.com/scijava/scijava-plugins-io-table
+checkout = git clone git@github.com:scijava/scijava-plugins-io-table
 
 [code/scijava/scijava-plugins-issues-github]
-checkout = git clone git://github.com/scijava/scijava-plugins-issues-github
+checkout = git clone git@github.com:scijava/scijava-plugins-issues-github
 
 [code/scijava/scijava-plugins-platforms]
-checkout = git clone git://github.com/scijava/scijava-plugins-platforms
+checkout = git clone git@github.com:scijava/scijava-plugins-platforms
 
 [code/scijava/scijava-plugins-text-markdown]
-checkout = git clone git://github.com/scijava/scijava-plugins-text-markdown
+checkout = git clone git@github.com:scijava/scijava-plugins-text-markdown
 
 [code/scijava/scijava-plugins-text-plain]
-checkout = git clone git://github.com/scijava/scijava-plugins-text-plain
+checkout = git clone git@github.com:scijava/scijava-plugins-text-plain
 
 [code/scijava/scijava-repl-fx]
-checkout = git clone git://github.com/scijava/scijava-repl-fx
+checkout = git clone git@github.com:scijava/scijava-repl-fx
 
 [code/scijava/scijava-scripts]
-checkout = git clone git://github.com/scijava/scijava-scripts
+checkout = git clone git@github.com:scijava/scijava-scripts
 
 [code/scijava/scijava-search]
-checkout = git clone git://github.com/scijava/scijava-search
+checkout = git clone git@github.com:scijava/scijava-search
 
 [code/scijava/scijava-table]
-checkout = git clone git://github.com/scijava/scijava-table
+checkout = git clone git@github.com:scijava/scijava-table
 
 [code/scijava/scijava-ui-awt]
-checkout = git clone git://github.com/scijava/scijava-ui-awt
+checkout = git clone git@github.com:scijava/scijava-ui-awt
 
 [code/scijava/scijava-ui-javafx]
-checkout = git clone git://github.com/scijava/scijava-ui-javafx
+checkout = git clone git@github.com:scijava/scijava-ui-javafx
 
 [code/scijava/scijava-ui-pivot]
-checkout = git clone git://github.com/scijava/scijava-ui-pivot
+checkout = git clone git@github.com:scijava/scijava-ui-pivot
 
 [code/scijava/scijava-ui-swing]
-checkout = git clone git://github.com/scijava/scijava-ui-swing
+checkout = git clone git@github.com:scijava/scijava-ui-swing
 
 [code/scijava/scijava-ui-swt]
-checkout = git clone git://github.com/scijava/scijava-ui-swt
+checkout = git clone git@github.com:scijava/scijava-ui-swt
 
 [code/scijava/scijava.github.io]
-checkout = git clone git://github.com/scijava/scijava.github.io
+checkout = git clone git@github.com:scijava/scijava.github.io
 
 [code/scijava/script-editor]
-checkout = git clone git://github.com/scijava/script-editor
+checkout = git clone git@github.com:scijava/script-editor
 
 [code/scijava/scripting-beanshell]
-checkout = git clone git://github.com/scijava/scripting-beanshell
+checkout = git clone git@github.com:scijava/scripting-beanshell
 
 [code/scijava/scripting-clojure]
-checkout = git clone git://github.com/scijava/scripting-clojure
+checkout = git clone git@github.com:scijava/scripting-clojure
 
 [code/scijava/scripting-groovy]
-checkout = git clone git://github.com/scijava/scripting-groovy
+checkout = git clone git@github.com:scijava/scripting-groovy
 
 [code/scijava/scripting-java]
-checkout = git clone git://github.com/scijava/scripting-java
+checkout = git clone git@github.com:scijava/scripting-java
 
 [code/scijava/scripting-javascript]
-checkout = git clone git://github.com/scijava/scripting-javascript
+checkout = git clone git@github.com:scijava/scripting-javascript
 
 [code/scijava/scripting-jruby]
-checkout = git clone git://github.com/scijava/scripting-jruby
+checkout = git clone git@github.com:scijava/scripting-jruby
 
 [code/scijava/scripting-jython]
-checkout = git clone git://github.com/scijava/scripting-jython
+checkout = git clone git@github.com:scijava/scripting-jython
 
 [code/scijava/scripting-kotlin]
-checkout = git clone git://github.com/scijava/scripting-kotlin
+checkout = git clone git@github.com:scijava/scripting-kotlin
 
 [code/scijava/scripting-matlab]
-checkout = git clone git://github.com/scijava/scripting-matlab
+checkout = git clone git@github.com:scijava/scripting-matlab
 
 [code/scijava/scripting-renjin]
-checkout = git clone git://github.com/scijava/scripting-renjin
+checkout = git clone git@github.com:scijava/scripting-renjin
 
 [code/scijava/scripting-scala]
-checkout = git clone git://github.com/scijava/scripting-scala
+checkout = git clone git@github.com:scijava/scripting-scala
 
 [code/scijava/scyjava]
-checkout = git clone git://github.com/scijava/scyjava
+checkout = git clone git@github.com:scijava/scyjava
 
 [code/scijava/status.scijava.org]
-checkout = git clone git://github.com/scijava/status.scijava.org
+checkout = git clone git@github.com:scijava/status.scijava.org
 
 [code/scijava/swing-checkbox-tree]
-checkout = git clone git://github.com/scijava/swing-checkbox-tree
+checkout = git clone git@github.com:scijava/swing-checkbox-tree
 
 [code/scijava/ui-behaviour]
-checkout = git clone git://github.com/scijava/ui-behaviour
+checkout = git clone git@github.com:scijava/ui-behaviour
 
 [code/javadoc/javadoc.scijava.org]
-checkout = git clone git://github.com/scijava/javadoc.scijava.org
+checkout = git clone git@github.com:scijava/javadoc.scijava.org
 
 [code/javadoc/scijava-javadoc]
-checkout = git clone git://github.com/scijava/scijava-javadoc
+checkout = git clone git@github.com:scijava/scijava-javadoc
