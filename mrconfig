@@ -26,6 +26,9 @@ checkout = git clone git@github.com:scijava/gitter-search-frontend
 [code/scijava/incubator]
 checkout = git clone git@github.com:scijava/incubator
 
+[code/scijava/javadoc-wrangler]
+checkout = git clone git@github.com:scijava/javadoc-wrangler
+
 [code/scijava/jgo]
 checkout = git clone git@github.com:scijava/jgo
 
