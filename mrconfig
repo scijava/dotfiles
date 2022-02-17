@@ -32,6 +32,9 @@ checkout = git clone git@github.com:scijava/javadoc-wrangler
 [code/scijava/jgo]
 checkout = git clone git@github.com:scijava/jgo
 
+[code/scijava/jython-autocompletion]
+checkout = git clone git@github.com:scijava/jython-autocompletion
+
 [code/scijava/minimaven]
 checkout = git clone git@github.com:scijava/minimaven
 
