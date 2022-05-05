@@ -81,7 +81,7 @@ checkout = git clone git@github.com:scijava/scijava-maven-plugin
 checkout = git clone git@github.com:scijava/scijava-optional
 
 [code/scijava/scijava-plot]
-checkout = git clone git@github.com:maarzt/scijava-plot
+checkout = git clone git@github.com:scijava/scijava-plot
 
 [code/scijava/scijava-plugins-commands]
 checkout = git clone git@github.com:scijava/scijava-plugins-commands
