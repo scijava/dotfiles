@@ -86,9 +86,6 @@ checkout = git clone git@github.com:scijava/scijava-plot
 [code/scijava/scijava-plugins-commands]
 checkout = git clone git@github.com:scijava/scijava-plugins-commands
 
-[code/scijava/scijava-plugins-io-table]
-checkout = git clone git@github.com:scijava/scijava-plugins-io-table
-
 [code/scijava/scijava-plugins-issues-github]
 checkout = git clone git@github.com:scijava/scijava-plugins-issues-github
 
