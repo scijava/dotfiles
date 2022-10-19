@@ -14,12 +14,6 @@ checkout = git clone git@github.com:scijava/dotfiles
 [code/scijava/examples]
 checkout = git clone git@github.com:scijava/examples
 
-[code/scijava/gitter-content-indexer]
-checkout = git clone git@github.com:scijava/gitter-content-indexer
-
-[code/scijava/gitter-search-frontend]
-checkout = git clone git@github.com:scijava/gitter-search-frontend
-
 [code/scijava/incubator]
 checkout = git clone git@github.com:scijava/incubator
 
