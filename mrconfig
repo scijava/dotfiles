@@ -155,6 +155,9 @@ checkout = git clone git@github.com:scijava/scripting-kotlin
 [code/scijava/scripting-matlab]
 checkout = git clone git@github.com:scijava/scripting-matlab
 
+[code/scijava/scripting-python]
+checkout = git clone git@github.com:scijava/scripting-python
+
 [code/scijava/scripting-renjin]
 checkout = git clone git@github.com:scijava/scripting-renjin
 
