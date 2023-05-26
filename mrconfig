@@ -131,6 +131,9 @@ checkout = git clone git@github.com:scijava/script-editor
 [code/scijava/script-editor-jython]
 checkout = git clone git@github.com:scijava/script-editor-jython
 
+[code/scijava/script-editor-scala]
+checkout = git clone git@github.com:scijava/script-editor-scala
+
 [code/scijava/scripting-beanshell]
 checkout = git clone git@github.com:scijava/scripting-beanshell
 
