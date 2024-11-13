@@ -5,6 +5,9 @@
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/scijava/dotfiles/mrconfig 2> /dev/null || true
 
+[code/scijava/app-launcher]
+checkout = git clone git@github.com:scijava/app-launcher
+
 [code/scijava/batch-processor]
 checkout = git clone git@github.com:scijava/batch-processor
 
