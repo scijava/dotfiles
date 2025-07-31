@@ -68,6 +68,9 @@ checkout = git clone git@github.com:scijava/scijava-io-http
 [code/scijava/scijava-java3d]
 checkout = git clone git@github.com:scijava/scijava-java3d
 
+[code/scijava/scijava-links]
+checkout = git clone git@github.com:scijava/scijava-links
+
 [code/scijava/scijava-listeners]
 checkout = git clone git@github.com:scijava/scijava-listeners
 
