@@ -29,6 +29,9 @@ checkout = git clone git@github.com:scijava/minimaven
 [code/scijava/native-lib-loader]
 checkout = git clone git@github.com:scijava/native-lib-loader
 
+[code/scijava/nexus-core-oss]
+checkout = git clone git@github.com:scijava/nexus-core-oss
+
 [code/scijava/parsington]
 checkout = git clone git@github.com:scijava/parsington
 
@@ -138,7 +141,7 @@ checkout = git clone git@github.com:scijava/script-editor-jython
 checkout = git clone git@github.com:scijava/script-editor-scala
 
 [code/scijava/scripting-appose-python]
-checkout = git clone git@github.com:ctrueden/scripting-appose-python
+checkout = git clone git@github.com:scijava/scripting-appose-python
 
 [code/scijava/scripting-beanshell]
 checkout = git clone git@github.com:scijava/scripting-beanshell
